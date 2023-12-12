@@ -1,4 +1,7 @@
  
 This is test1
 This line after add remote..
+feature2
+This is third and fourth commit
 This is third line
+master
