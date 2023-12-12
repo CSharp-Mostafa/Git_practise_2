@@ -5,3 +5,4 @@ feature2
 This is third and fourth commit
 This is third line
 master
+it is written in feature2
